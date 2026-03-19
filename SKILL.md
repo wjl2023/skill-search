@@ -1,3 +1,9 @@
+---
+name: skill-search
+description: Semantic search over 105K+ agent skill cards. Use this skill when you need to find the most relevant skills for a given task or query. Zero dependencies, works out of the box with a built-in default API endpoint.
+license: MIT
+---
+
 # Skill Search — 105K 技能卡检索
 
 > 从 105K+ 技能卡中语义搜索最匹配的 skill。零依赖，内置默认 API 地址，开箱即用。
